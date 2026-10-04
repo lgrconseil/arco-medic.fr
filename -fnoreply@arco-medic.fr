@@ -1,0 +1,66 @@
+To: arcomedic@wanadoo.fr
+Subject: =?UTF-8?B?RGVtYW5kZSBzaXRlIDogRG9jdW1lbnRhdGlvbiAvIGRvc3NpZXIgdGVjaG5pcXVlIOKAkyBXYXJyaW9yIOKAkyBSw6ljaGF1ZmZldXIgZGUgdHJhbnNmdXNpb24=?=
+From: Site ARCO MEDIC <noreply@arco-medic.fr>
+Reply-To: jean@example.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Nouvelle demande reçue depuis arco-medic.fr
+
+Nom : Jean Test
+Établissement : Clinique Test
+E-mail : jean@example.com
+Téléphone : 0600000000
+Objet : Documentation / dossier technique
+Produit : Warrior – Réchauffeur de transfusion
+
+Message :
+Bonjour, merci de m envoyer la doc.
+
+Pour répondre, utilisez simplement « Répondre » : la réponse partira vers jean@example.com.
+
+To: arcomedic@wanadoo.fr
+Subject: =?UTF-8?B?RGVtYW5kZSBzaXRlIDogY29udGFjdA==?=
+From: Site ARCO MEDIC <noreply@arco-medic.fr>
+Reply-To: jean@example.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Nouvelle demande reçue depuis arco-medic.fr
+
+Nom : Jean
+Établissement : Clinique
+E-mail : jean@example.com
+Téléphone : 
+Objet : 
+Produit : 
+
+Message :
+
+
+Pour répondre, utilisez simplement « Répondre » : la réponse partira vers jean@example.com.
+
+To: arcomedic@wanadoo.fr
+Subject: =?UTF-8?B?RGVtYW5kZSBzaXRlIDogRG9jdW1lbnRhdGlvbiAvIGRvc3NpZXIgdGVjaG5pcXVlIOKAkyBXYXJyaW9yIOKAkyBSw6ljaGF1ZmZldXIgZGUgdHJhbnNmdXNpb24=?=
+From: Site ARCO MEDIC <noreply@arco-medic.fr>
+Reply-To: test@example.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Nouvelle demande reçue depuis arco-medic.fr
+
+Nom : Test Navigateur
+Établissement : Clinique Test
+E-mail : test@example.com
+Téléphone : 
+Objet : Documentation / dossier technique
+Produit : Warrior – Réchauffeur de transfusion
+
+Message :
+Test depuis la page
+
+Pour répondre, utilisez simplement « Répondre » : la réponse partira vers test@example.com.
+
