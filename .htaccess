@@ -22,3 +22,8 @@ RewriteRule ^(.*)$ https://arco-medic.fr/$1 [R=301,L]
   ExpiresByType text/css "access plus 1 week"
   ExpiresByType application/javascript "access plus 1 week"
 </IfModule>
+
+# Fichiers internes non publics
+<FilesMatch "^(README\.md|\.gitignore)$">
+  Require all denied
+</FilesMatch>
